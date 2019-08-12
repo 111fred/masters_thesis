@@ -2,9 +2,11 @@
 
 This is a code repository for my masters thesis, in which I used Python and hierarchical clustering to detect crisis-related events in over 2 million Tweets from the Gezi Park Uprising (Turkey, summer of 2013). 
 
-The goal was to find out to which degree incidents that took place during the first 13 days of the riots could be detected.
+The goal was to find out to which degree events that took place during the first 13 days of the riots could be detected, where events are defined as "something that happens in a specific time and place with consequences" (Allan, 2012).
 
-Events are defined as "something that happens in a specific time and place with consequences" (Allan, 2012), eg. thousands joining a protest march across the bosphorus, or a protester getting hit by an armored police truck.
+Examples: 
+
+Thousands joining a protest march across the bosphorus, or a protester getting hit by an armored police truck in the Besiktas district.
 
 ### Results:
 
