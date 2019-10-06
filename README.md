@@ -21,8 +21,3 @@ On two of 13 riot days over 85 % of the produced clusters contained highly relev
 ### Abstract:
 
 This paper takes an explorative approach to determine to which degree events that occur within in the context of a political uprising can be detected from social media posts with computational methods. This is based on two pillars: A comparison of systems and approaches that have been developed in previous research of this topic, and the application of a selected hierarchical clustering method to the case of the Turkish Gezi Park Uprising. The combined learning from these two steps is critically assessed, showing that event detection in the context of a political uprising is feasible, and that such a system can be used for situational awareness. Clustering methods are the most suitable choice for the detection of events by previously unknown categories. Combined applications of clustering and classification are highly suitable for the practical purpose of detecting events by known categories, whereas graph-based methods offer a more versatile approach for specific applications. On the use-cases side, intelligence services and humanitarian agencies are found to have an interest in event detection methods, which holds ethical implications for the deployment of such a system.
-
-### Files included:
-
-* Jupyter notebook files, numbered to indicate the order in which the modules were applied
-* Thesis presentation
