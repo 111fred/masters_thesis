@@ -22,5 +22,4 @@ This paper takes an explorative approach to determine to which degree events tha
 ### Files included:
 
 * Jupyter notebook files, numbered to indicate the order in which the modules were applied
-* Thesis pdf
 * Thesis presentation
