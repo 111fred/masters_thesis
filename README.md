@@ -6,13 +6,14 @@ The goal was to find out to which degree events that took place during the first
 
 Examples: 
 
-Thousands joining a protest march across the bosphorus, or a protester getting hit by an armored police truck in the Besiktas district.
+* Thousands joining a protest march across the bosphorus
+* Protester getting hit by an armored police truck in the Besiktas district.
 
 ### Results:
 
-88 % of major events were detected: 65 % with a clear match and 23 % with a weak match. 
+Detection rate of events reported in the media: 88 % of major events were detected (65 % with a clear match and 23 % with a weak match).
 
-On two of 13 riot days over 85 % of the produced clusters contained relevant information that could be linked to events reported in the media; on 9 of 13 days this rate was above 50 %.
+Rate of informative outputs regarding events: On two of 13 riot days over 85 % of the produced clusters contained highly relevant information about reported events; on 9 of 13 days this rate was above 50 %.
 
 ### Abstract:
 
@@ -22,3 +23,4 @@ This paper takes an explorative approach to determine to which degree events tha
 
 * Jupyter notebook files, numbered to indicate the order in which the modules were applied
 * Thesis pdf
+* Thesis presentation
